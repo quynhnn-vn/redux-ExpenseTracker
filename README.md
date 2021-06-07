@@ -8,7 +8,7 @@ Build a budgeting and expense tracking app:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 View the app in the deployed version.
-[]()
+#### [https://expense-tracker-qnn.netlify.app/](https://expense-tracker-qnn.netlify.app/)
 
 Runs the app in the development mode.<br />
 #### `yarn start`
