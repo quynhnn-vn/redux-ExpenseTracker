@@ -7,12 +7,9 @@ Build a budgeting and expense tracking app:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-View the app in the deployed version.
-#### [https://expense-tracker-qnn.netlify.app/](https://expense-tracker-qnn.netlify.app/)
+### Available Scripts
+Run `yarn install` inside the project's root directory (make sure you have Node installed on your computer)
 
-Runs the app in the development mode.<br />
-#### `yarn start`
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Run `yarn start` and open http://localhost:3000 to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Open [https://expense-tracker-qnn.netlify.app/](https://expense-tracker-qnn.netlify.app/) to view it in deployed verison
