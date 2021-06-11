@@ -12,4 +12,4 @@ Run `yarn install` inside the project's root directory (make sure you have Node 
 
 Run `yarn start` and open http://localhost:3000 to view it in the browser.
 
-Open [https://expense-tracker-qnn.netlify.app/](https://expense-tracker-qnn.netlify.app/) to view it in deployed verison
+Open [https://expense-tracker-qnn.netlify.app/](https://expense-tracker-qnn.netlify.app/) to view it in deployed verison.
